@@ -27,6 +27,7 @@ A curated collection of Awesome resources for the Pico Calc device. If you're ne
 ## Games
 *Games and emulators available*
 - [NES Emulator](https://github.com/clockworkpi/PicoCalc/tree/master/Code/NES) - NES emulator
+- [Picomite Games](https://github.com/SacredSpud/PicoCalcGames) - Collection of games written in Picomite BASIC
 
 ## Media
 *Media applications*
@@ -40,3 +41,4 @@ A curated collection of Awesome resources for the Pico Calc device. If you're ne
 - [picocalc-text-starter](https://github.com/BlairLeduc/picocalc-text-starter/tree/main) - Text-based starter project with many drivers
 - [pkklib](https://github.com/redbug26/pkklib) - lightweight C library for development
 - [Meshtastic](https://github.com/markbirss/MeshCalc) - Luckfox Lyra Meshtastic firmware
+- [PicoCalc](https://github.com/LofiFren/PicoCalc) - Collection of MicroPython scripts 
