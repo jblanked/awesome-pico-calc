@@ -1,5 +1,5 @@
-# Awesome Pico Calc
-A curated collection of Awesome resources for the Pico Calc device. If you're new to Pico Calc, start with the Getting Started guide.
+# Awesome PicoCalc
+A curated collection of Awesome resources for the PicoCalc device. If you're new to PicoCalc, start with the Getting Started guide.
 
 ## Resources
 - [Official Documentation](https://github.com/clockworkpi/PicoCalc)
@@ -13,7 +13,7 @@ A curated collection of Awesome resources for the Pico Calc device. If you're ne
 - [Media](#media)
 
 ## Languages
-*Programming languages and SDKs available for Pico Calc development*
+*Programming languages and SDKs available for PicoCalc development*
 - [C/C++](https://github.com/clockworkpi/PicoCalc/blob/master/wiki/Setting-Up-the-Pico-SDK-on-Linux-for-Pico-Development.md) - Setting up the Pico SDK
 - [MicroPython](https://github.com/zenodante/PicoCalc-micropython-driver) - MicroPython driver
 - [BASIC](https://github.com/rlauzon54/PicoCalcBasic) - BASIC interpreter
