@@ -43,6 +43,6 @@ Sure! Here's the clean version:
 
 4. **Copy** the firmware file to the root directory of the PicoCalc (just drag and drop the file into the drive).
 
-5. **Eject** the PicoCalc from your computer safely, then unplug and reconnect it to restart with the new firmware.
+5. **Eject** the PicoCalc from your computer safely, then unplug and power it on to restart with the new firmware.
 
 ---
