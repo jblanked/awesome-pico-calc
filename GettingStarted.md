@@ -15,9 +15,9 @@ Here's a video guide for visual assistance: [YouTube Video](https://www.youtube.
 3. Connect USB-C to the Computer
 4. Hold power button to turn on PicoCalc
 5. Start STM32CubeProgrammer (https://www.st.com/en/development-tools/stm32cubeprog.html) on the computer
-6. Select “UART” (light blue drop-down at the top right)
+6. Select `UART` (light blue drop-down at the top right)
 7. Press “Connect” (green button at the top right)
-8. Press tab “Open file” and select “PicoCalc_BIOS_v1.2.bin” (https://github.com/clockworkpi/PicoCalc/tree/master)
+8. Press tab `Open file` and select `PicoCalc_BIOS_v1.4.bin` (Download from https://github.com/clockworkpi/PicoCalc/tree/master/Bin)
 9. Press “Download” button
 
 ## Flashing New Firmware
