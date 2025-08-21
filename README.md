@@ -38,7 +38,8 @@ A curated collection of Awesome resources for the PicoCalc device. If you're new
 - [Picoware](https://github.com/jblanked/Picoware) - Open source custom firmware (WiFi, Social Media, Bluetooth, Games, and more)
 - [FORTH](https://github.com/tabemann/zeptoforth) - ZeptoForth
 - [LuckFox Lyra](https://github.com/nekocharm/picocalc-luckfox-lyra) - Linux micro-development environment
-- [picocalc-text-starter](https://github.com/BlairLeduc/picocalc-text-starter/tree/main) - Text-based starter project with many drivers
+- [picocalc-text-starter](https://github.com/BlairLeduc/picocalc-text-starter) - Text-based starter project with many drivers
 - [pkklib](https://github.com/redbug26/pkklib) - lightweight C library for development
 - [Meshtastic](https://github.com/markbirss/MeshCalc) - Luckfox Lyra Meshtastic firmware
-- [PicoCalc](https://github.com/LofiFren/PicoCalc) - Collection of MicroPython scripts 
+- [PicoCalc](https://github.com/LofiFren/PicoCalc) - Collection of MicroPython scripts
+- [UF2Loader](https://github.com/pelrun/uf2loader) - Bootloader that loads firmware from PicoCalc's SD card Slot
