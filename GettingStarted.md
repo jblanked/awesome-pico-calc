@@ -10,15 +10,18 @@ This is critical to ensure your PicoCalc runs smoothly. Follow these steps to up
 Here's a video guide for visual assistance: [YouTube Video](https://www.youtube.com/watch?v=zD3XbYQG6cM&pp=ygUIamJsYW5rZWQ%3D).
 
 ### Steps to Update STM32
-1. Open the back of the PicoCalc carefully
-2. Turn on switch 1 (SW107) (just below the SD-card)
-3. Connect USB-C to the Computer
-4. Hold power button to turn on PicoCalc
-5. Start STM32CubeProgrammer (https://www.st.com/en/development-tools/stm32cubeprog.html) on the computer
-6. Select `UART` (light blue drop-down at the top right)
-7. Press “Connect” (green button at the top right)
-8. Press tab `Open file` and select `PicoCalc_BIOS_v1.4.bin` (Download from https://github.com/clockworkpi/PicoCalc/tree/master/Bin)
-9. Press “Download” button
+1. Turn off the PicoCalc and take out the batteries.
+2. Open the back of the PicoCalc carefully
+3. Turn on switch 1 (SW107) (just below the SD-card)
+4. Connect a `USB-C` to your Computer and to your PicoCalc
+5. Hold the power button to turn on your PicoCalc
+6. Start the STM32CubeProgrammer (https://www.st.com/en/development-tools/stm32cubeprog.html) on your computer
+7. Select `UART` (light blue drop-down at the top right)
+8. Click `Connect` (green button at the top right)
+9. Click the `Open file` tab and select `PicoCalc_BIOS_v1.4.bin` (Download from https://github.com/clockworkpi/PicoCalc/tree/master/Bin)
+10. Press the light blue `Download` button
+11. Once finished, click `Disconnect` then unplug the `USB-C` cable from your PicoCalc
+12. Turn off switch 1 (SW107)
 
 ## Flashing New Firmware
 Custom firmware can enhance the functionality of your PicoCalc. You can flash new firmware to add features or update existing ones.
