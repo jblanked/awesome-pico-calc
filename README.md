@@ -26,6 +26,7 @@ A curated collection of Awesome resources for the PicoCalc device. If you're new
 
 ## Games
 *Games and emulators available*
+- [Game Boy Emulator](https://github.com/TheKiwil/PocketPico/tree/master) - Game Boy emulator
 - [NES Emulator](https://github.com/clockworkpi/PicoCalc/tree/master/Code/NES) - NES emulator
 - [Picomite Games](https://github.com/SacredSpud/PicoCalcGames) - Collection of games written in Picomite BASIC
 
