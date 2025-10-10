@@ -12,7 +12,7 @@ Here's a video guide for visual assistance: [YouTube Video](https://www.youtube.
 ### Steps to Update STM32
 1. Turn off the PicoCalc and take out the batteries.
 2. Open the back of the PicoCalc carefully
-3. Turn on switch 1 (SW107) (just below the SD-card)
+3. Turn on switch 1 (SW701) (just below the SD-card)
 4. Connect a `USB-C` to your Computer and to your PicoCalc
 5. Hold the power button to turn on your PicoCalc
 6. Start the STM32CubeProgrammer (https://www.st.com/en/development-tools/stm32cubeprog.html) on your computer
