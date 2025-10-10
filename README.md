@@ -21,7 +21,8 @@ A curated collection of Awesome resources for the PicoCalc device. If you're new
 - [uLisp](https://github.com/clockworkpi/PicoCalc/tree/master/Code/uLisp) - uLisp interpreter
 - [FUZIX](https://github.com/clockworkpi/PicoCalc/tree/master/Code/FUZIX) - FUZIX Unix-like operating system 
 - [Rust](https://github.com/A-I-nstein/clockworkpi-picocalc-rust) - Rust driver 
-- [NuttX](https://github.com/shtirlic/picocalc-nx) - NuttX RTOS 
+- [NuttX](https://github.com/shtirlic/picocalc-nx) - NuttX RTOS
+- [Lua](https://github.com/Lana-chan/picocalc_lua) - Lua
 
 
 ## Games
