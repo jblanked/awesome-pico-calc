@@ -15,7 +15,7 @@ A curated collection of Awesome resources for the PicoCalc device. If you're new
 ## Languages
 *Programming languages and SDKs available for PicoCalc development*
 - [C/C++](https://github.com/clockworkpi/PicoCalc/blob/master/wiki/Setting-Up-the-Pico-SDK-on-Linux-for-Pico-Development.md) - Setting up the Pico SDK
-- [MicroPython](https://github.com/zenodante/PicoCalc-micropython-driver) - MicroPython driver
+- [MicroPython](https://github.com/jblanked/Picoware) - MicroPython driver
 - [BASIC](https://github.com/rlauzon54/PicoCalcBasic) - BASIC interpreter
 - [PicoMite](https://github.com/clockworkpi/PicoCalc/tree/master/Code/PicoMite) - PicoMite BASIC interpreter
 - [uLisp](https://github.com/clockworkpi/PicoCalc/tree/master/Code/uLisp) - uLisp interpreter
