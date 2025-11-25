@@ -30,6 +30,7 @@ A curated collection of Awesome resources for the PicoCalc device. If you're new
 - [Game Boy Emulator](https://github.com/TheKiwil/PocketPico/tree/master) - Game Boy emulator
 - [NES Emulator](https://github.com/clockworkpi/PicoCalc/tree/master/Code/NES) - NES emulator
 - [Picomite Games](https://github.com/SacredSpud/PicoCalcGames) - Collection of games written in Picomite BASIC
+- [ZX Spectrum Emulator](https://github.com/ohm69/zx-picocalc) - Sinclair ZX Spectrum emulator
 
 ## Media
 *Media applications*
@@ -46,3 +47,5 @@ A curated collection of Awesome resources for the PicoCalc device. If you're new
 - [Meshtastic](https://github.com/markbirss/MeshCalc) - Luckfox Lyra Meshtastic firmware
 - [PicoCalc](https://github.com/LofiFren/PicoCalc) - Collection of MicroPython scripts
 - [UF2Loader](https://github.com/pelrun/uf2loader) - Bootloader that loads firmware from PicoCalc's SD card Slot
+- [WezTerm](https://github.com/wezterm/picocalc-wezterm) - SSH client and terminal emulator
+
