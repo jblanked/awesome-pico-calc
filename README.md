@@ -22,7 +22,8 @@ A curated collection of Awesome resources for the PicoCalc device. If you're new
 - [FUZIX](https://github.com/clockworkpi/PicoCalc/tree/master/Code/FUZIX) - FUZIX Unix-like operating system 
 - [Rust](https://github.com/A-I-nstein/clockworkpi-picocalc-rust) - Rust driver 
 - [NuttX](https://github.com/shtirlic/picocalc-nx) - NuttX RTOS
-- [Lua](https://github.com/Lana-chan/picocalc_lua) - Lua
+- [Lua](https://github.com/benob/picocalc_lua) - Lua
+- [Go](https://github.com/mattwach/tinygo_picocalc) - Golang
 
 
 ## Games
